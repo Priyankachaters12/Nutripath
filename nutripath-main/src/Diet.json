@@ -1,0 +1,1397 @@
+[{
+  "id": 1,
+  "name": "Weight Loss Diet",
+  "category": "Fitness",
+  "dailyCalories": "1200–1500 kcal/day",
+  "duration": "8–12 Weeks",
+  "goal": "To reduce excess body fat while maintaining muscle mass and improving overall health.",
+  "introduction": "A Weight Loss Diet is a scientifically planned eating pattern designed to help individuals lose excess body fat in a healthy and sustainable manner. Instead of starving the body, this diet focuses on creating a moderate calorie deficit while providing all essential nutrients such as proteins, carbohydrates, healthy fats, vitamins, and minerals. The primary objective is to improve metabolism, increase energy levels, and reduce the risk of obesity-related diseases such as diabetes, hypertension, and heart disease. Weight loss should always be gradual, aiming for about 0.5 to 1 kilogram per week. Combining a balanced diet with regular physical activity and adequate sleep produces the best long-term results. This diet is suitable for overweight adults, individuals beginning a fitness journey, or anyone looking to adopt healthier eating habits.",
+
+  "whoShouldFollow": "This diet is recommended for overweight or obese individuals, people with a sedentary lifestyle, and those who want to improve their overall fitness. It should be followed under medical supervision by people with chronic illnesses or special nutritional needs.",
+
+  "healthBenefits": [
+    "Promotes healthy and sustainable weight loss.",
+    "Improves metabolism and digestion.",
+    "Reduces the risk of Type 2 diabetes.",
+    "Supports heart health by lowering cholesterol.",
+    "Helps maintain healthy blood pressure.",
+    "Increases energy and stamina.",
+    "Improves confidence and mental well-being.",
+    "Enhances sleep quality.",
+    "Reduces body fat while preserving muscle mass.",
+    "Encourages lifelong healthy eating habits."
+  ],
+
+  "mealPlan": {
+    "breakfast": "A bowl of oats prepared with skimmed milk, topped with banana slices, almonds, and chia seeds. Add one boiled egg or a bowl of sprouts for protein. Drink one glass of warm lemon water without sugar.",
+    "midMorning": "One seasonal fruit such as apple, orange, or guava along with a handful of roasted chickpeas or mixed nuts.",
+    "lunch": "Two whole wheat chapatis, one bowl of dal, mixed vegetable curry, cucumber and carrot salad, and one bowl of low-fat curd.",
+    "eveningSnack": "Green tea without sugar accompanied by roasted makhana or roasted chana.",
+    "dinner": "Grilled paneer or grilled chicken breast with sautéed vegetables and a bowl of vegetable soup. Avoid heavy rice-based meals at night."
+  },
+
+  "foodsToEat": [
+    "Whole wheat",
+    "Brown rice",
+    "Oats",
+    "Quinoa",
+    "Leafy green vegetables",
+    "Broccoli",
+    "Carrots",
+    "Cucumber",
+    "Tomatoes",
+    "Seasonal fruits",
+    "Apples",
+    "Oranges",
+    "Guava",
+    "Paneer",
+    "Low-fat milk",
+    "Curd",
+    "Eggs",
+    "Chicken breast",
+    "Fish",
+    "Lentils",
+    "Beans",
+    "Sprouts",
+    "Almonds",
+    "Walnuts",
+    "Chia seeds",
+    "Flax seeds"
+  ],
+
+  "foodsToAvoid": [
+    "Sugary soft drinks",
+    "Deep-fried foods",
+    "Fast food",
+    "Pizza",
+    "Burgers",
+    "French fries",
+    "Bakery products",
+    "White bread",
+    "Refined sugar",
+    "Ice cream",
+    "Candy",
+    "Processed snacks",
+    "Packaged fruit juices",
+    "Alcohol",
+    "Excess butter and cream"
+  ],
+
+  "exercise": "Perform at least 45 minutes of brisk walking, jogging, cycling, or swimming five days a week. Include 20–30 minutes of strength training two to three times per week to maintain muscle mass. Stretching or yoga for 15 minutes daily helps improve flexibility and reduce stress.",
+
+  "hydration": "Drink 2.5 to 3 litres of water every day. Start your morning with warm water and continue drinking water throughout the day. Avoid sugary beverages and excessive caffeinated drinks.",
+
+  "lifestyleTips": [
+    "Never skip breakfast.",
+    "Eat smaller meals every 3–4 hours.",
+    "Sleep for at least 7–8 hours every night.",
+    "Practice mindful eating and chew food slowly.",
+    "Avoid eating while watching television or using a mobile phone.",
+    "Track your daily calorie intake.",
+    "Use smaller plates to control portions.",
+    "Reduce stress through meditation or yoga.",
+    "Limit processed and packaged foods.",
+    "Maintain consistency instead of following crash diets."
+  ],
+
+  "precautions": "Avoid crash dieting or consuming extremely low-calorie diets without medical advice. Individuals with diabetes, thyroid disorders, pregnancy, or chronic illnesses should consult a doctor or dietitian before following a weight loss plan. Sudden weight loss can lead to nutritional deficiencies and muscle loss, so gradual progress is always recommended.",
+
+  "conclusion": "A Weight Loss Diet is not about avoiding food but about making healthier food choices and maintaining a balanced lifestyle. Consuming nutrient-rich foods in the right portions, staying physically active, drinking enough water, and getting adequate sleep together contribute to sustainable weight management. Rather than seeking quick results, individuals should focus on developing lifelong healthy habits. Consistency, discipline, and patience are the key factors in achieving and maintaining an ideal body weight while improving overall physical and mental well-being."
+},
+
+{
+  "id": 2,
+  "name": "Weight Gain Diet",
+  "category": "Fitness",
+  "dailyCalories": "2500–3000 kcal/day",
+  "duration": "8–16 Weeks",
+  "goal": "To increase healthy body weight by building muscle mass and improving overall strength.",
+  "introduction": "A Weight Gain Diet is a balanced nutritional plan designed for individuals who are underweight or have difficulty gaining weight due to a fast metabolism, poor eating habits, or increased physical activity. Unlike unhealthy weight gain through junk food, this diet focuses on consuming nutrient-rich foods that provide healthy calories, proteins, carbohydrates, healthy fats, vitamins, and minerals. The objective is to gain lean muscle mass rather than excess body fat. Weight gain should occur gradually, ideally around 0.5 kilogram per week, by increasing calorie intake while following a structured exercise program. A healthy weight gain diet supports stronger muscles, improved immunity, better energy levels, and enhanced physical performance. It is suitable for teenagers, athletes, recovering patients, and adults who are underweight.",
+
+  "whoShouldFollow": "This diet is recommended for underweight individuals, athletes requiring increased muscle mass, people recovering from illness, and those with a naturally fast metabolism. Individuals with medical conditions affecting weight should consult a healthcare professional before beginning this diet.",
+
+  "healthBenefits": [
+    "Supports healthy weight gain.",
+    "Increases muscle mass and strength.",
+    "Improves physical performance.",
+    "Enhances immunity.",
+    "Provides sustained energy.",
+    "Improves bone health.",
+    "Promotes better recovery after exercise.",
+    "Supports healthy hormone production.",
+    "Reduces fatigue.",
+    "Improves confidence and overall well-being."
+  ],
+
+  "mealPlan": {
+    "breakfast": "Two vegetable stuffed parathas with curd, one glass of full-cream milk, one banana, and a handful of almonds.",
+    "midMorning": "Fruit smoothie made with milk, oats, banana, peanut butter, and dates.",
+    "lunch": "Two cups of rice, dal, paneer curry or grilled chicken, mixed vegetables, salad, and curd.",
+    "eveningSnack": "Peanut butter sandwich with a glass of milk or fresh fruit juice.",
+    "dinner": "Three chapatis, soybean or chicken curry, vegetable stir-fry, and one bowl of curd.",
+    "beforeBed": "A glass of warm milk with a few walnuts or soaked almonds."
+  },
+
+  "foodsToEat": [
+    "Milk",
+    "Curd",
+    "Paneer",
+    "Cheese",
+    "Eggs",
+    "Chicken",
+    "Fish",
+    "Rice",
+    "Whole wheat bread",
+    "Oats",
+    "Bananas",
+    "Potatoes",
+    "Sweet potatoes",
+    "Peanut butter",
+    "Dry fruits",
+    "Nuts",
+    "Seeds",
+    "Soybeans",
+    "Lentils",
+    "Avocado"
+  ],
+
+  "foodsToAvoid": [
+    "Sugary soft drinks",
+    "Alcohol",
+    "Excess fried foods",
+    "Highly processed snacks",
+    "Instant noodles",
+    "Excess sweets",
+    "Skipping meals"
+  ],
+
+  "exercise": "Perform strength training at least four times per week focusing on compound exercises such as squats, bench press, deadlifts, shoulder press, and pull-ups. Limit excessive cardio sessions to avoid burning too many calories. Stretch before and after workouts.",
+
+  "hydration": "Drink around 3 litres of water daily. Stay hydrated throughout the day but avoid drinking excessive water immediately before meals to prevent reduced appetite.",
+
+  "lifestyleTips": [
+    "Eat every 3 hours.",
+    "Increase calorie intake gradually.",
+    "Choose nutrient-dense foods.",
+    "Never skip breakfast.",
+    "Sleep 8 hours daily.",
+    "Track body weight weekly.",
+    "Drink homemade protein smoothies.",
+    "Avoid smoking and alcohol.",
+    "Exercise consistently.",
+    "Maintain patience because healthy weight gain takes time."
+  ],
+
+  "precautions": "Do not attempt to gain weight by eating excessive fast food or sugary products. Unhealthy weight gain increases the risk of obesity, diabetes, and heart disease. Individuals with thyroid disorders, digestive problems, or chronic illnesses should seek medical advice before following a weight gain diet.",
+
+  "conclusion": "Healthy weight gain focuses on increasing lean muscle mass rather than accumulating unhealthy fat. A combination of calorie-rich nutritious foods, regular strength training, adequate hydration, and sufficient sleep ensures long-term success. Consistency and balanced eating habits are more effective than consuming unhealthy foods in large quantities. Following this diet responsibly can improve physical strength, immunity, and overall quality of life."
+},
+{
+  "id": 2,
+  "name": "Weight Gain Diet",
+  "category": "Fitness",
+  "dailyCalories": "2500–3000 kcal/day",
+  "duration": "8–16 Weeks",
+  "goal": "To increase healthy body weight by building muscle mass and improving overall strength.",
+  "introduction": "A Weight Gain Diet is a balanced nutritional plan designed for individuals who are underweight or have difficulty gaining weight due to a fast metabolism, poor eating habits, or increased physical activity. Unlike unhealthy weight gain through junk food, this diet focuses on consuming nutrient-rich foods that provide healthy calories, proteins, carbohydrates, healthy fats, vitamins, and minerals. The objective is to gain lean muscle mass rather than excess body fat. Weight gain should occur gradually, ideally around 0.5 kilogram per week, by increasing calorie intake while following a structured exercise program. A healthy weight gain diet supports stronger muscles, improved immunity, better energy levels, and enhanced physical performance. It is suitable for teenagers, athletes, recovering patients, and adults who are underweight.",
+
+  "whoShouldFollow": "This diet is recommended for underweight individuals, athletes requiring increased muscle mass, people recovering from illness, and those with a naturally fast metabolism. Individuals with medical conditions affecting weight should consult a healthcare professional before beginning this diet.",
+
+  "healthBenefits": [
+    "Supports healthy weight gain.",
+    "Increases muscle mass and strength.",
+    "Improves physical performance.",
+    "Enhances immunity.",
+    "Provides sustained energy.",
+    "Improves bone health.",
+    "Promotes better recovery after exercise.",
+    "Supports healthy hormone production.",
+    "Reduces fatigue.",
+    "Improves confidence and overall well-being."
+  ],
+
+  "mealPlan": {
+    "breakfast": "Two vegetable stuffed parathas with curd, one glass of full-cream milk, one banana, and a handful of almonds.",
+    "midMorning": "Fruit smoothie made with milk, oats, banana, peanut butter, and dates.",
+    "lunch": "Two cups of rice, dal, paneer curry or grilled chicken, mixed vegetables, salad, and curd.",
+    "eveningSnack": "Peanut butter sandwich with a glass of milk or fresh fruit juice.",
+    "dinner": "Three chapatis, soybean or chicken curry, vegetable stir-fry, and one bowl of curd.",
+    "beforeBed": "A glass of warm milk with a few walnuts or soaked almonds."
+  },
+
+  "foodsToEat": [
+    "Milk",
+    "Curd",
+    "Paneer",
+    "Cheese",
+    "Eggs",
+    "Chicken",
+    "Fish",
+    "Rice",
+    "Whole wheat bread",
+    "Oats",
+    "Bananas",
+    "Potatoes",
+    "Sweet potatoes",
+    "Peanut butter",
+    "Dry fruits",
+    "Nuts",
+    "Seeds",
+    "Soybeans",
+    "Lentils",
+    "Avocado"
+  ],
+
+  "foodsToAvoid": [
+    "Sugary soft drinks",
+    "Alcohol",
+    "Excess fried foods",
+    "Highly processed snacks",
+    "Instant noodles",
+    "Excess sweets",
+    "Skipping meals"
+  ],
+
+  "exercise": "Perform strength training at least four times per week focusing on compound exercises such as squats, bench press, deadlifts, shoulder press, and pull-ups. Limit excessive cardio sessions to avoid burning too many calories. Stretch before and after workouts.",
+
+  "hydration": "Drink around 3 litres of water daily. Stay hydrated throughout the day but avoid drinking excessive water immediately before meals to prevent reduced appetite.",
+
+  "lifestyleTips": [
+    "Eat every 3 hours.",
+    "Increase calorie intake gradually.",
+    "Choose nutrient-dense foods.",
+    "Never skip breakfast.",
+    "Sleep 8 hours daily.",
+    "Track body weight weekly.",
+    "Drink homemade protein smoothies.",
+    "Avoid smoking and alcohol.",
+    "Exercise consistently.",
+    "Maintain patience because healthy weight gain takes time."
+  ],
+
+  "precautions": "Do not attempt to gain weight by eating excessive fast food or sugary products. Unhealthy weight gain increases the risk of obesity, diabetes, and heart disease. Individuals with thyroid disorders, digestive problems, or chronic illnesses should seek medical advice before following a weight gain diet.",
+
+  "conclusion": "Healthy weight gain focuses on increasing lean muscle mass rather than accumulating unhealthy fat. A combination of calorie-rich nutritious foods, regular strength training, adequate hydration, and sufficient sleep ensures long-term success. Consistency and balanced eating habits are more effective than consuming unhealthy foods in large quantities. Following this diet responsibly can improve physical strength, immunity, and overall quality of life."
+},
+{
+  "id": 4,
+  "name": "Diabetic Diet",
+  "category": "Medical Nutrition",
+  "dailyCalories": "1500–1800 kcal/day",
+  "duration": "Long-Term Lifestyle",
+  "goal": "To maintain healthy blood sugar levels, improve insulin sensitivity, and reduce the risk of diabetes-related complications.",
+
+  "introduction": "A Diabetic Diet is a carefully planned eating pattern that helps people with diabetes manage their blood glucose levels while ensuring that the body receives all essential nutrients. Diabetes is a chronic condition in which the body either does not produce enough insulin or cannot effectively use the insulin it produces. As a result, blood sugar levels become elevated, increasing the risk of heart disease, kidney disease, nerve damage, vision problems, and other health complications. A diabetic diet focuses on consuming foods with a low glycemic index, high fiber content, lean protein, and healthy fats while limiting refined carbohydrates and added sugars. Eating meals at regular intervals also plays an important role in maintaining stable blood sugar levels. Along with medication, physical activity, and regular health check-ups, following a diabetic diet helps improve overall health and quality of life. This diet is not only beneficial for people with diabetes but also for individuals at risk of developing the disease because it promotes healthy eating habits and weight management.",
+
+  "whoShouldFollow": "This diet is suitable for people diagnosed with Type 1 or Type 2 diabetes, individuals with prediabetes, overweight individuals at risk of diabetes, and anyone looking to improve blood sugar control through healthy eating.",
+
+  "healthBenefits": [
+    "Maintains stable blood sugar levels.",
+    "Improves insulin sensitivity.",
+    "Reduces the risk of heart disease.",
+    "Supports healthy weight management.",
+    "Improves digestion through high-fiber foods.",
+    "Helps control cholesterol levels.",
+    "Provides steady energy throughout the day.",
+    "Reduces the risk of diabetes complications.",
+    "Supports kidney and eye health.",
+    "Encourages lifelong healthy eating habits."
+  ],
+
+  "mealPlan": {
+    "breakfast": "Vegetable oats or multigrain porridge with low-fat milk, one boiled egg or sprouts, and unsweetened green tea.",
+    "midMorning": "One apple, guava, or orange with a handful of roasted chickpeas.",
+    "lunch": "Two whole wheat chapatis, one bowl of dal, mixed vegetable curry, cucumber salad, and low-fat curd.",
+    "eveningSnack": "Roasted makhana or roasted chana with herbal tea or lemon water without sugar.",
+    "dinner": "Grilled paneer or grilled fish with steamed vegetables and a bowl of vegetable soup."
+  },
+
+  "foodsToEat": [
+    "Whole wheat",
+    "Brown rice (in moderation)",
+    "Oats",
+    "Millets",
+    "Lentils",
+    "Beans",
+    "Sprouts",
+    "Leafy vegetables",
+    "Broccoli",
+    "Carrots",
+    "Cucumber",
+    "Tomatoes",
+    "Low-fat milk",
+    "Curd",
+    "Paneer",
+    "Eggs",
+    "Fish",
+    "Chicken breast",
+    "Almonds",
+    "Walnuts",
+    "Flax seeds",
+    "Chia seeds"
+  ],
+
+  "foodsToAvoid": [
+    "White bread",
+    "White rice (large portions)",
+    "Sugary drinks",
+    "Soft drinks",
+    "Sweets",
+    "Chocolate",
+    "Ice cream",
+    "Pastries",
+    "Cakes",
+    "Candy",
+    "Refined flour products",
+    "Sweetened fruit juices",
+    "Deep-fried snacks",
+    "Processed foods"
+  ],
+
+  "exercise": "Perform at least 30–45 minutes of brisk walking, cycling, swimming, or yoga five days a week. Include light strength training two to three times per week to improve insulin sensitivity and maintain muscle mass.",
+
+  "hydration": "Drink 2.5–3 litres of water daily. Avoid sugary beverages and packaged fruit juices. Choose plain water, coconut water (in moderation), or unsweetened herbal tea.",
+
+  "lifestyleTips": [
+    "Eat meals at the same time every day.",
+    "Never skip breakfast.",
+    "Monitor blood sugar regularly.",
+    "Choose high-fiber foods.",
+    "Limit added sugar.",
+    "Read food labels before purchasing packaged foods.",
+    "Maintain a healthy body weight.",
+    "Exercise regularly.",
+    "Sleep for 7–8 hours every night.",
+    "Consult your doctor for routine health check-ups."
+  ],
+
+  "precautions": "People taking insulin or diabetes medications should monitor their blood sugar regularly to avoid hypoglycemia. Portion control is essential, even when consuming healthy foods. Any major dietary changes should be discussed with a doctor or registered dietitian.",
+
+  "conclusion": "A Diabetic Diet is an effective way to control blood sugar levels while promoting overall health. By choosing whole grains, lean proteins, healthy fats, fruits, vegetables, and high-fiber foods, individuals can reduce the risk of diabetes-related complications and improve their quality of life. When combined with regular exercise, adequate hydration, medication (if prescribed), and consistent monitoring, this diet supports long-term diabetes management and encourages healthier lifestyle habits."
+},
+{
+  "id": 5,
+  "name": "Heart Healthy Diet",
+  "category": "Cardiovascular Health",
+  "dailyCalories": "1800–2200 kcal/day",
+  "duration": "Long-Term Lifestyle",
+  "goal": "To improve heart health, lower cholesterol, maintain healthy blood pressure, and reduce the risk of cardiovascular diseases.",
+
+  "introduction": "A Heart Healthy Diet is a balanced eating plan that supports the proper functioning of the heart and blood vessels. Cardiovascular diseases such as heart attack, stroke, high cholesterol, and coronary artery disease are among the leading causes of death worldwide. Poor eating habits, lack of exercise, smoking, obesity, and stress significantly increase the risk of heart disease. This diet emphasizes foods that are naturally rich in fiber, vitamins, minerals, antioxidants, and healthy fats while reducing the intake of saturated fats, trans fats, excessive sodium, and refined sugar. Whole grains, fruits, vegetables, legumes, nuts, seeds, and lean proteins form the foundation of this eating pattern. Healthy fats from olive oil, fish, and nuts help improve cholesterol levels, while potassium-rich foods support healthy blood pressure. Regular physical activity, stress management, proper sleep, and avoiding tobacco products further enhance the benefits of this diet. Following a Heart Healthy Diet consistently not only protects the heart but also improves overall health, boosts energy levels, and increases life expectancy.",
+
+  "whoShouldFollow": "This diet is recommended for individuals with high cholesterol, hypertension, obesity, a family history of heart disease, diabetes, or anyone who wishes to maintain a healthy cardiovascular system through proper nutrition.",
+
+  "healthBenefits": [
+    "Reduces bad (LDL) cholesterol levels.",
+    "Increases good (HDL) cholesterol.",
+    "Maintains healthy blood pressure.",
+    "Improves blood circulation.",
+    "Reduces the risk of heart attack and stroke.",
+    "Supports healthy body weight.",
+    "Improves energy levels.",
+    "Reduces inflammation in blood vessels.",
+    "Supports healthy blood sugar control.",
+    "Promotes long-term cardiovascular health."
+  ],
+
+  "mealPlan": {
+    "breakfast": "A bowl of oatmeal prepared with low-fat milk, topped with fresh berries, walnuts, and flax seeds. Serve with green tea or unsweetened herbal tea.",
+    "midMorning": "One apple or orange along with a handful of unsalted almonds.",
+    "lunch": "Two whole wheat chapatis, grilled fish or paneer, mixed vegetable curry, cucumber salad, and one bowl of low-fat curd.",
+    "eveningSnack": "Roasted chickpeas or roasted makhana with green tea.",
+    "dinner": "Grilled chicken breast or tofu served with steamed broccoli, spinach, carrots, and vegetable soup."
+  },
+
+  "foodsToEat": [
+    "Whole wheat",
+    "Brown rice",
+    "Oats",
+    "Millets",
+    "Leafy green vegetables",
+    "Spinach",
+    "Broccoli",
+    "Carrots",
+    "Tomatoes",
+    "Beans",
+    "Lentils",
+    "Fish",
+    "Skinless chicken",
+    "Paneer (low fat)",
+    "Low-fat milk",
+    "Curd",
+    "Olive oil",
+    "Walnuts",
+    "Almonds",
+    "Flax seeds",
+    "Chia seeds",
+    "Seasonal fruits"
+  ],
+
+  "foodsToAvoid": [
+    "Butter",
+    "Ghee (in excess)",
+    "Processed meat",
+    "Sausages",
+    "Bacon",
+    "Fast food",
+    "French fries",
+    "Pizza",
+    "Burgers",
+    "Deep-fried snacks",
+    "Soft drinks",
+    "Sugary desserts",
+    "Packaged chips",
+    "Instant noodles",
+    "Foods high in sodium"
+  ],
+
+  "exercise": "Engage in at least 150 minutes of moderate-intensity aerobic exercise each week. Activities such as brisk walking, cycling, swimming, yoga, and light strength training improve heart function and blood circulation while reducing cholesterol and blood pressure.",
+
+  "hydration": "Drink 2.5–3 litres of water daily. Avoid sugary beverages and excessive caffeinated drinks. Fresh lemon water and unsweetened herbal teas are healthy alternatives.",
+
+  "lifestyleTips": [
+    "Limit daily salt intake.",
+    "Choose healthy cooking oils such as olive oil.",
+    "Avoid smoking and alcohol.",
+    "Exercise regularly.",
+    "Maintain a healthy body weight.",
+    "Manage stress through meditation and yoga.",
+    "Sleep at least 7–8 hours daily.",
+    "Eat more fruits and vegetables.",
+    "Read food labels before buying packaged foods.",
+    "Schedule regular medical check-ups."
+  ],
+
+  "precautions": "Individuals with heart disease should consult their cardiologist or dietitian before making major dietary changes. Portion control is important even when eating healthy foods. Avoid self-prescribed supplements without professional advice.",
+
+  "conclusion": "A Heart Healthy Diet is one of the most effective ways to reduce the risk of cardiovascular disease and improve overall well-being. By replacing unhealthy fats with healthier alternatives, increasing fiber intake, limiting sodium, and choosing fresh, natural foods, individuals can significantly improve their heart health. Combined with regular exercise, stress management, and proper sleep, this diet supports a stronger heart, healthier blood vessels, and a longer, healthier life."
+},
+{
+  "id": 6,
+  "name": "Hypertension (Low Sodium) Diet",
+  "category": "Blood Pressure Management",
+  "dailyCalories": "1800–2000 kcal/day",
+  "duration": "Long-Term Lifestyle",
+  "goal": "To lower and maintain healthy blood pressure while reducing the risk of heart disease, stroke, and kidney-related complications.",
+
+  "introduction": "A Hypertension Diet, also known as a Low Sodium Diet or DASH (Dietary Approaches to Stop Hypertension) Diet, is a scientifically recommended eating pattern designed to control high blood pressure. Hypertension is a condition in which the force of blood against the artery walls remains consistently high, increasing the risk of heart attack, stroke, kidney disease, and vision problems. Many factors contribute to high blood pressure, including excessive salt intake, obesity, lack of physical activity, smoking, stress, and poor eating habits. The DASH diet focuses on reducing sodium intake while increasing foods rich in potassium, magnesium, calcium, and dietary fiber. These nutrients help relax blood vessels, improve circulation, and maintain normal blood pressure. Fresh fruits, vegetables, whole grains, lean proteins, and low-fat dairy products form the foundation of this diet. Processed foods, canned foods, pickles, chips, instant noodles, and salty snacks are minimized because they contain excessive sodium. Along with proper nutrition, maintaining a healthy body weight, exercising regularly, managing stress, limiting alcohol, and getting adequate sleep play an essential role in controlling hypertension. Following this diet consistently can significantly improve heart health and reduce long-term health risks.",
+
+  "whoShouldFollow": "This diet is recommended for individuals diagnosed with hypertension, pre-hypertension, heart disease, kidney disease (under medical supervision), overweight adults, and anyone wishing to reduce their risk of cardiovascular disease.",
+
+  "healthBenefits": [
+    "Helps reduce high blood pressure.",
+    "Improves heart health.",
+    "Reduces the risk of stroke.",
+    "Supports kidney function.",
+    "Improves blood circulation.",
+    "Helps maintain healthy cholesterol levels.",
+    "Supports healthy body weight.",
+    "Reduces fluid retention.",
+    "Increases energy levels.",
+    "Promotes long-term cardiovascular wellness."
+  ],
+
+  "mealPlan": {
+    "breakfast": "A bowl of oatmeal with low-fat milk, banana slices, walnuts, and flax seeds. Serve with unsweetened green tea.",
+    "midMorning": "One orange or guava with a handful of unsalted almonds.",
+    "lunch": "Two whole wheat chapatis, one bowl of dal, spinach curry, cucumber and tomato salad, and low-fat curd without added salt.",
+    "eveningSnack": "Roasted makhana or roasted chickpeas with herbal tea.",
+    "dinner": "Grilled fish, grilled chicken, or paneer served with steamed broccoli, carrots, beans, and vegetable soup."
+  },
+
+  "foodsToEat": [
+    "Whole wheat",
+    "Brown rice",
+    "Oats",
+    "Millets",
+    "Bananas",
+    "Oranges",
+    "Guava",
+    "Spinach",
+    "Broccoli",
+    "Carrots",
+    "Tomatoes",
+    "Beans",
+    "Lentils",
+    "Low-fat milk",
+    "Curd",
+    "Paneer",
+    "Fish",
+    "Skinless chicken",
+    "Unsalted almonds",
+    "Walnuts",
+    "Flax seeds",
+    "Olive oil"
+  ],
+
+  "foodsToAvoid": [
+    "Table salt (excess)",
+    "Pickles",
+    "Papad",
+    "Instant noodles",
+    "Chips",
+    "French fries",
+    "Fast food",
+    "Processed meat",
+    "Canned soup",
+    "Frozen ready-to-eat meals",
+    "Salted biscuits",
+    "Salted peanuts",
+    "Soft drinks",
+    "Processed cheese",
+    "Packaged snacks"
+  ],
+
+  "exercise": "Engage in at least 30–45 minutes of brisk walking, cycling, swimming, yoga, or light jogging five days a week. Deep breathing exercises and meditation are also recommended to reduce stress, which is a major contributor to high blood pressure.",
+
+  "hydration": "Drink approximately 2.5–3 litres of water daily. Avoid sugary beverages and energy drinks. Coconut water may be consumed occasionally after consulting a healthcare provider, especially if kidney problems are present.",
+
+  "lifestyleTips": [
+    "Limit sodium intake to less than 1500–2000 mg per day.",
+    "Read nutrition labels before purchasing packaged foods.",
+    "Cook with herbs and spices instead of excess salt.",
+    "Exercise regularly.",
+    "Avoid smoking.",
+    "Limit alcohol consumption.",
+    "Maintain a healthy body weight.",
+    "Practice yoga or meditation to manage stress.",
+    "Sleep 7–8 hours every night.",
+    "Monitor blood pressure regularly."
+  ],
+
+  "precautions": "Individuals taking blood pressure medications should continue their prescribed treatment and not rely solely on dietary changes. Those with kidney disease should consult a doctor before increasing potassium-rich foods because excessive potassium may not be suitable for everyone.",
+
+  "conclusion": "A Hypertension Diet is an effective long-term approach to controlling blood pressure naturally while reducing the risk of heart attack, stroke, and kidney disease. Choosing fresh fruits, vegetables, whole grains, lean proteins, and low-fat dairy products while reducing sodium intake helps maintain healthy blood pressure levels. Combined with regular physical activity, stress management, proper hydration, and adequate sleep, this diet supports overall cardiovascular health and significantly improves quality of life."
+},
+{
+  "id": 7,
+  "name": "High Protein Diet",
+  "category": "Muscle Building & Recovery",
+  "dailyCalories": "2200–2800 kcal/day",
+  "duration": "8–16 Weeks",
+  "goal": "To build lean muscle mass, improve strength, support tissue repair, and enhance overall physical performance through increased protein intake.",
+
+  "introduction": "A High Protein Diet is a nutritional plan that emphasizes consuming protein-rich foods while maintaining a balanced intake of carbohydrates, healthy fats, vitamins, and minerals. Protein is one of the three essential macronutrients and plays a vital role in muscle growth, tissue repair, enzyme production, hormone regulation, and immune system function. This diet is especially beneficial for athletes, bodybuilders, fitness enthusiasts, individuals recovering from illness or surgery, and people aiming to lose fat while preserving muscle mass. A high protein diet does not simply mean eating more meat; it includes a variety of protein sources such as eggs, fish, chicken, paneer, tofu, lentils, beans, soy products, dairy, nuts, and seeds. The recommended protein intake varies depending on age, body weight, and activity level, but active individuals generally require 1.2–2.0 grams of protein per kilogram of body weight daily. When combined with regular strength training and adequate hydration, a high protein diet improves muscle recovery, increases satiety, boosts metabolism, and supports healthy weight management. However, balance is essential because excessive protein without sufficient fiber, vegetables, and water may lead to digestive discomfort. Therefore, a well-planned high protein diet should include fruits, vegetables, whole grains, and healthy fats alongside quality protein sources.",
+
+  "whoShouldFollow": "This diet is suitable for athletes, gym-goers, bodybuilders, individuals recovering from surgery or illness, older adults experiencing muscle loss, and people aiming for healthy weight management while preserving lean muscle mass.",
+
+  "healthBenefits": [
+    "Supports muscle growth and repair.",
+    "Improves recovery after exercise.",
+    "Increases metabolism.",
+    "Promotes healthy weight management.",
+    "Provides long-lasting energy.",
+    "Reduces hunger and cravings.",
+    "Strengthens bones and muscles.",
+    "Supports immune function.",
+    "Improves physical performance.",
+    "Maintains lean body mass during weight loss."
+  ],
+
+  "mealPlan": {
+    "breakfast": "Three boiled eggs or paneer bhurji with two whole wheat toasts, a glass of milk, and one apple.",
+    "midMorning": "Greek yogurt or curd with almonds and walnuts.",
+    "lunch": "Grilled chicken breast or paneer, brown rice, dal, mixed vegetables, and cucumber salad.",
+    "eveningSnack": "Protein smoothie prepared with milk, banana, oats, peanut butter, and chia seeds.",
+    "dinner": "Grilled fish or tofu with sautéed vegetables, soup, and one whole wheat chapati.",
+    "beforeBed": "A glass of warm milk with a handful of roasted almonds."
+  },
+
+  "foodsToEat": [
+    "Eggs",
+    "Chicken breast",
+    "Fish",
+    "Paneer",
+    "Tofu",
+    "Milk",
+    "Greek yogurt",
+    "Curd",
+    "Soybeans",
+    "Lentils",
+    "Beans",
+    "Chickpeas",
+    "Quinoa",
+    "Brown rice",
+    "Oats",
+    "Almonds",
+    "Walnuts",
+    "Peanut butter",
+    "Pumpkin seeds",
+    "Chia seeds",
+    "Flax seeds",
+    "Leafy vegetables"
+  ],
+
+  "foodsToAvoid": [
+    "Sugary drinks",
+    "Excess sweets",
+    "Deep-fried foods",
+    "Processed meat",
+    "Instant noodles",
+    "Packaged snacks",
+    "Excess alcohol",
+    "Highly processed fast food"
+  ],
+
+  "exercise": "Strength training should be performed at least four to five times per week using compound exercises such as squats, deadlifts, bench press, shoulder press, and pull-ups. Include stretching and light cardio to improve overall fitness and flexibility.",
+
+  "hydration": "Consume 3–4 litres of water daily because increased protein intake requires adequate hydration for proper digestion and kidney function.",
+
+  "lifestyleTips": [
+    "Include protein in every meal.",
+    "Consume protein within one hour after exercise.",
+    "Exercise regularly.",
+    "Sleep 7–9 hours every night.",
+    "Drink plenty of water.",
+    "Choose lean protein sources.",
+    "Avoid excessive processed protein foods.",
+    "Monitor your protein intake according to body weight.",
+    "Include fruits and vegetables daily.",
+    "Maintain consistency for long-term results."
+  ],
+
+  "precautions": "Individuals with kidney disease or liver disorders should consult a doctor before following a high protein diet. Excessive protein supplementation without professional guidance is not recommended. Whole food sources of protein should always be preferred over processed supplements whenever possible.",
+
+  "conclusion": "A High Protein Diet is an excellent nutritional strategy for building muscle, improving strength, supporting recovery, and maintaining overall health. When balanced with healthy carbohydrates, healthy fats, regular exercise, and proper hydration, it promotes sustainable fitness and long-term well-being. Rather than relying solely on protein supplements, individuals should prioritize natural protein-rich foods to achieve the best health outcomes."
+},
+{
+  "id": 7,
+  "name": "High Protein Diet",
+  "category": "Muscle Building & Recovery",
+  "dailyCalories": "2200–2800 kcal/day",
+  "duration": "8–16 Weeks",
+  "goal": "To build lean muscle mass, improve strength, support tissue repair, and enhance overall physical performance through increased protein intake.",
+
+  "introduction": "A High Protein Diet is a nutritional plan that emphasizes consuming protein-rich foods while maintaining a balanced intake of carbohydrates, healthy fats, vitamins, and minerals. Protein is one of the three essential macronutrients and plays a vital role in muscle growth, tissue repair, enzyme production, hormone regulation, and immune system function. This diet is especially beneficial for athletes, bodybuilders, fitness enthusiasts, individuals recovering from illness or surgery, and people aiming to lose fat while preserving muscle mass. A high protein diet does not simply mean eating more meat; it includes a variety of protein sources such as eggs, fish, chicken, paneer, tofu, lentils, beans, soy products, dairy, nuts, and seeds. The recommended protein intake varies depending on age, body weight, and activity level, but active individuals generally require 1.2–2.0 grams of protein per kilogram of body weight daily. When combined with regular strength training and adequate hydration, a high protein diet improves muscle recovery, increases satiety, boosts metabolism, and supports healthy weight management. However, balance is essential because excessive protein without sufficient fiber, vegetables, and water may lead to digestive discomfort. Therefore, a well-planned high protein diet should include fruits, vegetables, whole grains, and healthy fats alongside quality protein sources.",
+
+  "whoShouldFollow": "This diet is suitable for athletes, gym-goers, bodybuilders, individuals recovering from surgery or illness, older adults experiencing muscle loss, and people aiming for healthy weight management while preserving lean muscle mass.",
+
+  "healthBenefits": [
+    "Supports muscle growth and repair.",
+    "Improves recovery after exercise.",
+    "Increases metabolism.",
+    "Promotes healthy weight management.",
+    "Provides long-lasting energy.",
+    "Reduces hunger and cravings.",
+    "Strengthens bones and muscles.",
+    "Supports immune function.",
+    "Improves physical performance.",
+    "Maintains lean body mass during weight loss."
+  ],
+
+  "mealPlan": {
+    "breakfast": "Three boiled eggs or paneer bhurji with two whole wheat toasts, a glass of milk, and one apple.",
+    "midMorning": "Greek yogurt or curd with almonds and walnuts.",
+    "lunch": "Grilled chicken breast or paneer, brown rice, dal, mixed vegetables, and cucumber salad.",
+    "eveningSnack": "Protein smoothie prepared with milk, banana, oats, peanut butter, and chia seeds.",
+    "dinner": "Grilled fish or tofu with sautéed vegetables, soup, and one whole wheat chapati.",
+    "beforeBed": "A glass of warm milk with a handful of roasted almonds."
+  },
+
+  "foodsToEat": [
+    "Eggs",
+    "Chicken breast",
+    "Fish",
+    "Paneer",
+    "Tofu",
+    "Milk",
+    "Greek yogurt",
+    "Curd",
+    "Soybeans",
+    "Lentils",
+    "Beans",
+    "Chickpeas",
+    "Quinoa",
+    "Brown rice",
+    "Oats",
+    "Almonds",
+    "Walnuts",
+    "Peanut butter",
+    "Pumpkin seeds",
+    "Chia seeds",
+    "Flax seeds",
+    "Leafy vegetables"
+  ],
+
+  "foodsToAvoid": [
+    "Sugary drinks",
+    "Excess sweets",
+    "Deep-fried foods",
+    "Processed meat",
+    "Instant noodles",
+    "Packaged snacks",
+    "Excess alcohol",
+    "Highly processed fast food"
+  ],
+
+  "exercise": "Strength training should be performed at least four to five times per week using compound exercises such as squats, deadlifts, bench press, shoulder press, and pull-ups. Include stretching and light cardio to improve overall fitness and flexibility.",
+
+  "hydration": "Consume 3–4 litres of water daily because increased protein intake requires adequate hydration for proper digestion and kidney function.",
+
+  "lifestyleTips": [
+    "Include protein in every meal.",
+    "Consume protein within one hour after exercise.",
+    "Exercise regularly.",
+    "Sleep 7–9 hours every night.",
+    "Drink plenty of water.",
+    "Choose lean protein sources.",
+    "Avoid excessive processed protein foods.",
+    "Monitor your protein intake according to body weight.",
+    "Include fruits and vegetables daily.",
+    "Maintain consistency for long-term results."
+  ],
+
+  "precautions": "Individuals with kidney disease or liver disorders should consult a doctor before following a high protein diet. Excessive protein supplementation without professional guidance is not recommended. Whole food sources of protein should always be preferred over processed supplements whenever possible.",
+
+  "conclusion": "A High Protein Diet is an excellent nutritional strategy for building muscle, improving strength, supporting recovery, and maintaining overall health. When balanced with healthy carbohydrates, healthy fats, regular exercise, and proper hydration, it promotes sustainable fitness and long-term well-being. Rather than relying solely on protein supplements, individuals should prioritize natural protein-rich foods to achieve the best health outcomes."
+},
+{
+  "id": 8,
+  "name": "High Fiber Diet",
+  "category": "Digestive Health",
+  "dailyCalories": "1800–2200 kcal/day",
+  "duration": "Long-Term Lifestyle",
+  "goal": "To improve digestion, prevent constipation, regulate blood sugar, reduce cholesterol levels, and promote overall gut health through increased dietary fiber intake.",
+
+  "introduction": "A High Fiber Diet is a healthy eating plan that focuses on consuming foods naturally rich in dietary fiber, including fruits, vegetables, whole grains, legumes, nuts, and seeds. Dietary fiber is a type of carbohydrate that cannot be completely digested by the human body, yet it plays a vital role in maintaining digestive health. There are two types of fiber: soluble fiber, which dissolves in water and helps reduce cholesterol and control blood sugar levels, and insoluble fiber, which adds bulk to stool and prevents constipation. Adults generally require between 25 and 35 grams of fiber each day, but many people consume much less than the recommended amount due to processed food consumption. A high fiber diet not only improves digestion but also supports heart health, weight management, healthy blood sugar control, and beneficial gut bacteria. By increasing fiber gradually and drinking sufficient water, individuals can enjoy long-term health benefits while reducing the risk of chronic diseases such as diabetes, obesity, heart disease, and colorectal disorders. This diet is suitable for most healthy adults and can easily become part of a balanced lifestyle.",
+
+  "whoShouldFollow": "This diet is suitable for individuals experiencing constipation, digestive problems, obesity, diabetes, high cholesterol, or anyone who wants to improve overall digestive and cardiovascular health through better nutrition.",
+
+  "healthBenefits": [
+    "Improves digestion and bowel movement.",
+    "Prevents constipation.",
+    "Supports healthy gut bacteria.",
+    "Helps lower bad cholesterol (LDL).",
+    "Improves blood sugar control.",
+    "Promotes healthy weight management.",
+    "Reduces hunger by increasing fullness.",
+    "Supports heart health.",
+    "May reduce the risk of colon diseases.",
+    "Improves overall digestive wellness."
+  ],
+
+  "mealPlan": {
+    "breakfast": "A bowl of oatmeal prepared with low-fat milk, topped with apple slices, chia seeds, flax seeds, and almonds.",
+    "midMorning": "One pear or guava along with a handful of roasted chickpeas.",
+    "lunch": "Two whole wheat chapatis, one bowl of mixed dal, vegetable curry, cucumber and carrot salad, and low-fat curd.",
+    "eveningSnack": "Roasted makhana or sprouts chaat with lemon and herbs.",
+    "dinner": "Brown rice with rajma or chickpea curry, steamed broccoli, spinach, and vegetable soup."
+  },
+
+  "foodsToEat": [
+    "Oats",
+    "Whole wheat",
+    "Brown rice",
+    "Quinoa",
+    "Millets",
+    "Beans",
+    "Lentils",
+    "Chickpeas",
+    "Rajma",
+    "Broccoli",
+    "Spinach",
+    "Carrots",
+    "Cabbage",
+    "Apples",
+    "Pears",
+    "Guava",
+    "Oranges",
+    "Bananas",
+    "Almonds",
+    "Walnuts",
+    "Flax seeds",
+    "Chia seeds",
+    "Pumpkin seeds"
+  ],
+
+  "foodsToAvoid": [
+    "White bread",
+    "White rice (large quantities)",
+    "Processed cereals",
+    "Refined flour products",
+    "Fast food",
+    "Deep-fried foods",
+    "Sugary beverages",
+    "Packaged snacks",
+    "Excess sweets",
+    "Highly processed foods"
+  ],
+
+  "exercise": "Perform at least 30–45 minutes of walking, jogging, cycling, yoga, or swimming five days a week. Physical activity works together with fiber to improve bowel movement and maintain healthy body weight.",
+
+  "hydration": "Drink 3–3.5 litres of water daily because increased fiber intake requires adequate hydration to prevent constipation and support healthy digestion.",
+
+  "lifestyleTips": [
+    "Increase fiber gradually instead of suddenly.",
+    "Drink enough water every day.",
+    "Include vegetables in every meal.",
+    "Choose whole grains instead of refined grains.",
+    "Eat fresh fruits rather than fruit juices.",
+    "Exercise regularly.",
+    "Avoid processed foods whenever possible.",
+    "Chew food slowly for better digestion.",
+    "Maintain regular meal timings.",
+    "Track your daily fiber intake."
+  ],
+
+  "precautions": "A sudden increase in dietary fiber may cause temporary bloating or gas. Increase fiber intake gradually over several weeks while maintaining adequate water intake. Individuals with digestive disorders such as Crohn's disease or ulcerative colitis should consult a healthcare professional before making significant dietary changes.",
+
+  "conclusion": "A High Fiber Diet is one of the simplest and most effective ways to improve digestive health and overall well-being. Regular consumption of fiber-rich foods supports healthy bowel movements, reduces cholesterol, stabilizes blood sugar levels, and promotes long-term heart health. When combined with proper hydration, physical activity, and a balanced diet, it helps prevent many lifestyle-related diseases and encourages lifelong healthy eating habits."
+},
+{
+  "id": 9,
+  "name": "Vegetarian Diet",
+  "category": "Plant-Based Nutrition",
+  "dailyCalories": "1800–2200 kcal/day",
+  "duration": "Long-Term Lifestyle",
+  "goal": "To provide complete nutrition using plant-based foods while supporting overall health, maintaining a healthy body weight, and reducing the risk of chronic diseases.",
+
+  "introduction": "A Vegetarian Diet is a balanced eating pattern that excludes meat, poultry, and seafood while including plant-based foods such as vegetables, fruits, whole grains, legumes, nuts, seeds, dairy products, and eggs depending on the type of vegetarian diet followed. Millions of people choose vegetarianism for health, environmental, cultural, or ethical reasons. A well-planned vegetarian diet supplies carbohydrates for energy, proteins for muscle maintenance, healthy fats for brain function, vitamins, minerals, and antioxidants that protect the body against diseases. Foods like lentils, beans, chickpeas, soy products, paneer, milk, yogurt, nuts, and seeds provide excellent sources of protein. Fruits and vegetables are rich in vitamins A and C, while whole grains provide dietary fiber that supports digestion. Research has shown that a balanced vegetarian diet may reduce the risk of obesity, diabetes, heart disease, high blood pressure, and certain cancers. However, individuals following this diet should ensure adequate intake of nutrients such as vitamin B12, iron, calcium, zinc, omega-3 fatty acids, and vitamin D. When combined with regular exercise, sufficient hydration, and healthy lifestyle habits, a vegetarian diet supports lifelong health and wellness.",
+
+  "whoShouldFollow": "This diet is suitable for adults, teenagers, older adults, fitness enthusiasts, and individuals who wish to follow a healthy plant-based lifestyle while maintaining balanced nutrition.",
+
+  "healthBenefits": [
+    "Supports heart health.",
+    "Improves digestion through high fiber intake.",
+    "Reduces bad cholesterol levels.",
+    "Helps maintain healthy body weight.",
+    "Lowers the risk of Type 2 diabetes.",
+    "Provides essential vitamins and minerals.",
+    "Supports healthy gut bacteria.",
+    "Improves immunity.",
+    "Reduces the risk of certain chronic diseases.",
+    "Encourages environmentally sustainable eating habits."
+  ],
+
+  "mealPlan": {
+    "breakfast": "Vegetable oats or poha with peanuts, a glass of milk, and one seasonal fruit.",
+    "midMorning": "Apple or orange with a handful of almonds and walnuts.",
+    "lunch": "Two whole wheat chapatis, dal, paneer curry, mixed vegetables, cucumber salad, and low-fat curd.",
+    "eveningSnack": "Sprouts chaat or roasted chickpeas with lemon water.",
+    "dinner": "Brown rice with rajma or chickpea curry, spinach, broccoli, vegetable soup, and salad."
+  },
+
+  "foodsToEat": [
+    "Whole wheat",
+    "Brown rice",
+    "Oats",
+    "Millets",
+    "Dal",
+    "Rajma",
+    "Chickpeas",
+    "Soybeans",
+    "Tofu",
+    "Paneer",
+    "Milk",
+    "Curd",
+    "Leafy vegetables",
+    "Broccoli",
+    "Carrots",
+    "Tomatoes",
+    "Seasonal fruits",
+    "Almonds",
+    "Walnuts",
+    "Flax seeds",
+    "Chia seeds",
+    "Pumpkin seeds"
+  ],
+
+  "foodsToAvoid": [
+    "Highly processed vegetarian junk food",
+    "Sugary soft drinks",
+    "Packaged snacks",
+    "Excess sweets",
+    "Deep-fried foods",
+    "Refined flour products",
+    "Excess salt",
+    "Artificial sweeteners"
+  ],
+
+  "exercise": "Perform 30–45 minutes of brisk walking, yoga, cycling, swimming, or strength training at least five days a week to maintain physical fitness and muscle strength.",
+
+  "hydration": "Drink 2.5–3 litres of water every day along with fresh coconut water or unsweetened herbal tea occasionally.",
+
+  "lifestyleTips": [
+    "Eat a variety of colorful vegetables.",
+    "Include legumes daily.",
+    "Choose whole grains over refined grains.",
+    "Consume enough protein from plant-based foods.",
+    "Exercise regularly.",
+    "Sleep 7–8 hours daily.",
+    "Avoid excessive processed foods.",
+    "Maintain portion control.",
+    "Drink enough water.",
+    "Consult a doctor regarding Vitamin B12 supplementation if required."
+  ],
+
+  "precautions": "Individuals following a vegetarian diet should monitor their intake of Vitamin B12, iron, calcium, zinc, and omega-3 fatty acids. Regular blood tests and professional dietary advice may be beneficial for maintaining nutritional balance.",
+
+  "conclusion": "A Vegetarian Diet is a nutritious and sustainable eating pattern that provides numerous health benefits when properly planned. By consuming a wide variety of vegetables, fruits, legumes, whole grains, dairy products, nuts, and seeds, individuals can meet their nutritional requirements while reducing the risk of chronic diseases. Combined with regular exercise, adequate hydration, and a healthy lifestyle, this diet supports long-term physical and mental well-being."
+},
+{
+  "id": 10,
+  "name": "Vegan Diet",
+  "category": "Plant-Based Nutrition",
+  "dailyCalories": "1800–2200 kcal/day",
+  "duration": "Long-Term Lifestyle",
+  "goal": "To provide complete nutrition using only plant-based foods while promoting overall health, protecting the environment, and supporting ethical food choices.",
+
+  "introduction": "A Vegan Diet is a completely plant-based eating pattern that excludes all animal-derived foods, including meat, poultry, fish, eggs, dairy products, and honey. Instead, it focuses on consuming vegetables, fruits, whole grains, legumes, nuts, seeds, and plant-based alternatives such as soy milk, almond milk, oat milk, tofu, and tempeh. Over the past decade, the vegan diet has gained popularity because of its numerous health benefits and its positive impact on the environment. Scientific research suggests that a well-balanced vegan diet may reduce the risk of obesity, heart disease, hypertension, Type 2 diabetes, and certain cancers. Plant-based foods are naturally rich in dietary fiber, antioxidants, vitamins, and minerals that improve digestion, strengthen immunity, and reduce inflammation. However, because animal products are excluded, special attention should be given to nutrients such as Vitamin B12, Vitamin D, Calcium, Iron, Zinc, Omega-3 fatty acids, and high-quality protein. These nutrients can be obtained through fortified foods, legumes, soy products, seeds, nuts, and supplements if necessary. When carefully planned, a vegan diet provides complete nutrition while supporting a healthier lifestyle and reducing the environmental impact associated with food production.",
+
+  "whoShouldFollow": "This diet is suitable for adults, students, athletes, environmentally conscious individuals, and anyone who wishes to adopt a completely plant-based lifestyle while maintaining balanced nutrition.",
+
+  "healthBenefits": [
+    "Supports heart health by reducing saturated fat intake.",
+    "Helps maintain healthy body weight.",
+    "Improves digestion through high fiber intake.",
+    "Reduces cholesterol levels.",
+    "May reduce the risk of Type 2 diabetes.",
+    "Strengthens immunity through antioxidant-rich foods.",
+    "Supports healthy blood pressure.",
+    "Promotes healthy gut bacteria.",
+    "Encourages environmentally sustainable living.",
+    "Provides long-term health benefits when properly planned."
+  ],
+
+  "mealPlan": {
+    "breakfast": "Oatmeal prepared with soy or almond milk, topped with banana slices, chia seeds, flax seeds, almonds, and walnuts.",
+    "midMorning": "One apple or orange with roasted chickpeas or mixed nuts.",
+    "lunch": "Brown rice with lentil curry, tofu stir-fry, mixed vegetables, cucumber salad, and vegetable soup.",
+    "eveningSnack": "Sprouts salad or roasted makhana with herbal tea.",
+    "dinner": "Quinoa with chickpea curry, broccoli, spinach, carrots, and fresh fruit."
+  },
+
+  "foodsToEat": [
+    "Oats",
+    "Brown rice",
+    "Whole wheat",
+    "Millets",
+    "Quinoa",
+    "Lentils",
+    "Rajma",
+    "Chickpeas",
+    "Soybeans",
+    "Tofu",
+    "Tempeh",
+    "Soy milk",
+    "Almond milk",
+    "Oat milk",
+    "Spinach",
+    "Broccoli",
+    "Carrots",
+    "Tomatoes",
+    "Seasonal fruits",
+    "Almonds",
+    "Walnuts",
+    "Pumpkin seeds",
+    "Chia seeds",
+    "Flax seeds"
+  ],
+
+  "foodsToAvoid": [
+    "Meat",
+    "Chicken",
+    "Fish",
+    "Eggs",
+    "Milk",
+    "Butter",
+    "Cheese",
+    "Curd",
+    "Honey",
+    "Processed vegan junk food",
+    "Sugary beverages",
+    "Deep-fried snacks"
+  ],
+
+  "exercise": "Perform at least 30–45 minutes of walking, jogging, cycling, yoga, or strength training five days each week. Athletes following a vegan diet should ensure sufficient protein intake for muscle recovery.",
+
+  "hydration": "Drink 2.5–3 litres of water daily. Fresh coconut water and unsweetened herbal teas can also contribute to hydration.",
+
+  "lifestyleTips": [
+    "Include protein-rich foods in every meal.",
+    "Consume fortified foods containing Vitamin B12 and Vitamin D.",
+    "Eat a variety of colorful vegetables and fruits.",
+    "Exercise regularly.",
+    "Sleep 7–8 hours daily.",
+    "Choose whole foods over processed vegan products.",
+    "Read nutrition labels carefully.",
+    "Maintain adequate calcium intake.",
+    "Drink enough water every day.",
+    "Consult a dietitian if beginning a vegan lifestyle."
+  ],
+
+  "precautions": "Individuals following a vegan diet should monitor Vitamin B12, Vitamin D, Calcium, Iron, Zinc, and Omega-3 intake. Blood tests and supplementation may be necessary under medical guidance to prevent nutritional deficiencies.",
+
+  "conclusion": "A Vegan Diet is a healthy and environmentally friendly eating pattern that provides numerous health benefits when carefully planned. By consuming a wide variety of whole grains, legumes, vegetables, fruits, nuts, and seeds while ensuring adequate intake of essential nutrients, individuals can enjoy excellent physical health, improved digestion, reduced disease risk, and sustainable long-term nutrition. Combined with regular exercise and healthy lifestyle habits, a vegan diet supports overall well-being while contributing to environmental conservation."
+},
+{
+  "id": 11,
+  "name": "Pregnancy Diet",
+  "category": "Maternal Nutrition",
+  "dailyCalories": "2200–2600 kcal/day",
+  "duration": "Throughout Pregnancy",
+  "goal": "To provide essential nutrients for the healthy growth and development of the baby while maintaining the mother's health and reducing pregnancy-related complications.",
+
+  "introduction": "A Pregnancy Diet is a carefully planned nutritional program that supports both the mother and the growing baby during pregnancy. During this period, a woman's nutritional requirements increase because her body is responsible for supporting fetal growth, placental development, and hormonal changes. A healthy pregnancy diet should provide adequate protein, calcium, iron, folic acid, omega-3 fatty acids, vitamins, minerals, and healthy carbohydrates. Contrary to the common belief of 'eating for two,' pregnant women should focus on eating nutrient-dense foods rather than simply increasing food quantity. Fresh fruits, vegetables, whole grains, dairy products, lean proteins, nuts, seeds, and legumes provide most of the nutrients needed during pregnancy. Folic acid helps prevent neural tube defects, iron supports increased blood production, calcium strengthens bones and teeth, while protein supports the baby's growth and tissue development. Drinking enough water and consuming fiber-rich foods also help prevent constipation, which is common during pregnancy. Avoiding alcohol, smoking, excessive caffeine, and raw or undercooked foods is essential to protect both mother and baby. Along with regular prenatal check-ups and moderate physical activity approved by a doctor, a balanced pregnancy diet promotes a healthy pregnancy and reduces the risk of complications such as anemia, gestational diabetes, and low birth weight.",
+
+  "whoShouldFollow": "This diet is designed for pregnant women throughout all three trimesters. Nutritional requirements may vary depending on medical conditions, age, body weight, and advice from a healthcare professional.",
+
+  "healthBenefits": [
+    "Supports healthy fetal growth and development.",
+    "Provides essential vitamins and minerals.",
+    "Reduces the risk of birth defects through adequate folic acid.",
+    "Supports healthy bone development.",
+    "Reduces the risk of maternal anemia.",
+    "Improves immunity for both mother and baby.",
+    "Maintains healthy weight gain during pregnancy.",
+    "Provides sustained energy throughout the day.",
+    "Supports healthy brain development of the baby.",
+    "Promotes overall maternal health."
+  ],
+
+  "mealPlan": {
+    "breakfast": "Vegetable upma or oatmeal prepared with milk, one boiled egg or sprouts, one banana, and a glass of milk.",
+    "midMorning": "Seasonal fruit such as apple or orange with a handful of almonds and walnuts.",
+    "lunch": "Two whole wheat chapatis, dal, paneer or grilled chicken, mixed vegetables, salad, and curd.",
+    "eveningSnack": "Fruit smoothie with milk and dry fruits or roasted chickpeas.",
+    "dinner": "Rice, lentil soup, spinach curry, grilled paneer or fish, and vegetable soup.",
+    "beforeBed": "A glass of warm milk."
+  },
+
+  "foodsToEat": [
+    "Milk",
+    "Curd",
+    "Paneer",
+    "Eggs",
+    "Fish (low mercury)",
+    "Chicken",
+    "Whole wheat",
+    "Brown rice",
+    "Oats",
+    "Spinach",
+    "Broccoli",
+    "Carrots",
+    "Beans",
+    "Lentils",
+    "Bananas",
+    "Oranges",
+    "Apples",
+    "Dry fruits",
+    "Walnuts",
+    "Almonds",
+    "Flax seeds"
+  ],
+
+  "foodsToAvoid": [
+    "Alcohol",
+    "Smoking",
+    "Raw eggs",
+    "Raw meat",
+    "Unpasteurized milk",
+    "High-mercury fish",
+    "Excess caffeine",
+    "Packaged junk food",
+    "Soft drinks",
+    "Highly processed foods"
+  ],
+
+  "exercise": "Light walking, prenatal yoga, stretching, and breathing exercises for 20–30 minutes daily after consulting a doctor. Avoid strenuous exercise unless recommended by a healthcare professional.",
+
+  "hydration": "Drink approximately 3 litres of water every day along with fresh coconut water, milk, and homemade soups if recommended by your doctor.",
+
+  "lifestyleTips": [
+    "Eat small meals every 3–4 hours.",
+    "Never skip breakfast.",
+    "Take prenatal vitamins as prescribed.",
+    "Get adequate sleep.",
+    "Manage stress through meditation.",
+    "Attend regular prenatal check-ups.",
+    "Avoid smoking and alcohol.",
+    "Choose fresh home-cooked meals.",
+    "Maintain good hygiene while preparing food.",
+    "Consult your doctor before taking supplements."
+  ],
+
+  "precautions": "Pregnant women should avoid self-medication and consult their obstetrician before making significant dietary changes. Certain foods such as raw seafood, undercooked meat, unpasteurized dairy products, and excessive caffeine should be avoided to reduce health risks.",
+
+  "conclusion": "A Pregnancy Diet provides the essential nutrition required for a healthy mother and a healthy baby. By consuming balanced meals rich in protein, calcium, iron, folic acid, healthy fats, and vitamins, pregnant women can support proper fetal development while maintaining their own well-being. Combined with regular medical care, moderate exercise, adequate hydration, and healthy lifestyle habits, this diet contributes to a safe pregnancy and healthy childbirth."
+},
+{
+  "id": 12,
+  "name": "Child Nutrition Diet",
+  "category": "Pediatric Nutrition",
+  "dailyCalories": "1400–2000 kcal/day (depending on age and activity level)",
+  "duration": "Long-Term Healthy Lifestyle",
+  "goal": "To support healthy physical growth, brain development, strong immunity, and lifelong healthy eating habits in children.",
+
+  "introduction": "A Child Nutrition Diet is a carefully planned eating pattern designed to provide growing children with all the nutrients required for healthy physical and mental development. Childhood is one of the most important stages of life because the body and brain grow rapidly during this period. A balanced diet supplies proteins for muscle growth, carbohydrates for energy, healthy fats for brain development, vitamins for immunity, and minerals such as calcium and iron for strong bones and healthy blood. Children who eat a nutritious diet generally have better concentration, improved academic performance, stronger immunity, healthy body weight, and lower risk of chronic diseases later in life. Fresh fruits, vegetables, dairy products, whole grains, eggs, legumes, nuts, and lean proteins should be included regularly. Parents should encourage healthy eating habits from an early age by providing colorful meals, limiting sugary snacks, and involving children in meal preparation. Proper hydration, regular physical activity, and sufficient sleep are equally important for healthy growth. A child nutrition diet should focus on balanced nutrition rather than excessive calorie intake, ensuring that children receive the right nutrients for every stage of development.",
+
+  "whoShouldFollow": "This diet is suitable for children between 4 and 18 years of age. Nutritional needs vary according to age, gender, growth rate, and physical activity.",
+
+  "healthBenefits": [
+    "Supports healthy height and weight gain.",
+    "Strengthens bones and teeth.",
+    "Improves brain development and memory.",
+    "Boosts immunity.",
+    "Provides energy for daily activities.",
+    "Improves concentration in school.",
+    "Supports healthy digestion.",
+    "Reduces the risk of childhood obesity.",
+    "Promotes healthy eating habits.",
+    "Supports overall physical and mental development."
+  ],
+
+  "mealPlan": {
+    "breakfast": "A glass of milk with vegetable poha or oats, one boiled egg or paneer sandwich, and one banana.",
+    "midMorning": "Seasonal fruit such as apple, orange, or guava.",
+    "lunch": "Two chapatis, dal, vegetable curry, paneer or chicken, cucumber salad, and curd.",
+    "eveningSnack": "Sprouts chaat, roasted makhana, or peanut chikki with milk.",
+    "dinner": "Rice with dal, mixed vegetables, grilled paneer or fish, and vegetable soup."
+  },
+
+  "foodsToEat": [
+    "Milk",
+    "Curd",
+    "Paneer",
+    "Eggs",
+    "Chicken",
+    "Fish",
+    "Whole wheat",
+    "Brown rice",
+    "Oats",
+    "Dal",
+    "Rajma",
+    "Chickpeas",
+    "Spinach",
+    "Broccoli",
+    "Carrots",
+    "Bananas",
+    "Apples",
+    "Oranges",
+    "Almonds",
+    "Walnuts"
+  ],
+
+  "foodsToAvoid": [
+    "Soft drinks",
+    "Packaged chips",
+    "Chocolate in excess",
+    "Candy",
+    "Fast food",
+    "Instant noodles",
+    "Deep-fried snacks",
+    "Sugary breakfast cereals",
+    "Highly processed foods",
+    "Energy drinks"
+  ],
+
+  "exercise": "Children should engage in at least 60 minutes of physical activity daily, including outdoor games, cycling, swimming, running, or sports to support healthy growth and fitness.",
+
+  "hydration": "Drink 1.5–2.5 litres of water daily depending on age, weather, and activity level. Fresh milk and homemade soups also contribute to hydration.",
+
+  "lifestyleTips": [
+    "Eat breakfast every day.",
+    "Limit screen time.",
+    "Encourage outdoor play.",
+    "Choose homemade meals.",
+    "Include fruits and vegetables daily.",
+    "Avoid excessive sugary foods.",
+    "Maintain regular meal timings.",
+    "Sleep 9–11 hours depending on age.",
+    "Teach healthy eating habits early.",
+    "Schedule regular health check-ups."
+  ],
+
+  "precautions": "Parents should avoid forcing children to eat excessive amounts of food. Food allergies should be identified early, and balanced nutrition should always be prioritized over processed snacks. Growth should be monitored regularly with the help of a pediatrician.",
+
+  "conclusion": "A Child Nutrition Diet provides the essential nutrients needed for healthy growth, strong immunity, brain development, and lifelong wellness. By encouraging balanced meals, regular exercise, adequate hydration, and healthy lifestyle habits, parents can help children develop a strong foundation for a healthy future."
+},
+{
+  "id": 13,
+  "name": "Senior Nutrition Diet",
+  "category": "Healthy Aging",
+  "dailyCalories": "1600–2000 kcal/day",
+  "duration": "Long-Term Lifestyle",
+  "goal": "To support healthy aging by providing balanced nutrition that maintains bone strength, muscle mass, heart health, brain function, and immunity while reducing the risk of age-related diseases.",
+
+  "introduction": "A Senior Nutrition Diet is specially designed for adults aged 60 years and above. As people age, their metabolism slows down, muscle mass naturally decreases, bones become weaker, and the risk of chronic illnesses such as diabetes, hypertension, osteoporosis, arthritis, and heart disease increases. Older adults also require fewer calories but higher amounts of essential nutrients such as calcium, vitamin D, vitamin B12, protein, fiber, potassium, and healthy fats. A balanced senior diet includes fruits, vegetables, whole grains, lean proteins, dairy products, legumes, nuts, and healthy oils. Adequate hydration is equally important because the sensation of thirst often decreases with age, increasing the risk of dehydration. Fiber-rich foods improve digestion and prevent constipation, while protein helps preserve muscle strength and mobility. Calcium and vitamin D support strong bones and reduce the risk of fractures. Omega-3 fatty acids contribute to heart and brain health. A healthy senior nutrition plan, combined with regular physical activity, sufficient sleep, and routine medical check-ups, promotes independence, improves quality of life, and supports healthy aging. The focus should always be on nutrient-dense meals rather than consuming excessive calories.",
+
+  "whoShouldFollow": "This diet is suitable for adults aged 60 years and above, especially those aiming to maintain good health, manage chronic diseases, improve immunity, and preserve strength and mobility.",
+
+  "healthBenefits": [
+    "Supports healthy aging.",
+    "Maintains muscle strength.",
+    "Strengthens bones and teeth.",
+    "Supports heart health.",
+    "Improves brain function and memory.",
+    "Enhances immunity.",
+    "Improves digestion and bowel movement.",
+    "Helps control blood pressure and blood sugar.",
+    "Reduces the risk of osteoporosis.",
+    "Improves overall quality of life."
+  ],
+
+  "mealPlan": {
+    "breakfast": "Oatmeal prepared with low-fat milk, topped with banana slices and almonds, along with one boiled egg or sprouts.",
+    "midMorning": "One apple or guava with a handful of walnuts.",
+    "lunch": "Two whole wheat chapatis, dal, grilled paneer or fish, cooked vegetables, cucumber salad, and low-fat curd.",
+    "eveningSnack": "Roasted chickpeas or vegetable soup with herbal tea.",
+    "dinner": "Brown rice with lentil soup, spinach curry, grilled chicken or tofu, and steamed vegetables.",
+    "beforeBed": "A glass of warm low-fat milk."
+  },
+
+  "foodsToEat": [
+    "Whole wheat",
+    "Brown rice",
+    "Oats",
+    "Millets",
+    "Milk",
+    "Curd",
+    "Paneer",
+    "Eggs",
+    "Fish",
+    "Chicken",
+    "Lentils",
+    "Beans",
+    "Spinach",
+    "Broccoli",
+    "Carrots",
+    "Apples",
+    "Bananas",
+    "Almonds",
+    "Walnuts",
+    "Flax seeds",
+    "Olive oil"
+  ],
+
+  "foodsToAvoid": [
+    "Highly processed foods",
+    "Excess salt",
+    "Sugary beverages",
+    "Deep-fried foods",
+    "Processed meat",
+    "Alcohol",
+    "Excess sweets",
+    "Instant noodles",
+    "Packaged snacks",
+    "Foods high in trans fats"
+  ],
+
+  "exercise": "Perform at least 30 minutes of walking, stretching, yoga, chair exercises, light strength training, or swimming most days of the week to improve mobility, flexibility, and cardiovascular health.",
+
+  "hydration": "Drink approximately 2–2.5 litres of water daily. Include milk, soups, and fresh coconut water when appropriate. Do not wait until feeling thirsty before drinking water.",
+
+  "lifestyleTips": [
+    "Eat smaller meals more frequently.",
+    "Choose soft, easy-to-chew foods if necessary.",
+    "Exercise regularly.",
+    "Maintain social interaction.",
+    "Sleep at least 7–8 hours.",
+    "Attend regular health check-ups.",
+    "Take prescribed medications on time.",
+    "Avoid smoking and alcohol.",
+    "Maintain healthy body weight.",
+    "Stay mentally active through reading and puzzles."
+  ],
+
+  "precautions": "Older adults with diabetes, kidney disease, hypertension, or heart disease should follow individualized dietary recommendations from their healthcare provider. Any nutritional supplements should only be taken after medical consultation.",
+
+  "conclusion": "A Senior Nutrition Diet provides the essential nutrients needed to support healthy aging while reducing the risk of age-related diseases. By focusing on nutrient-rich foods, adequate hydration, regular exercise, and healthy lifestyle habits, older adults can maintain independence, improve energy levels, and enjoy a better quality of life throughout their senior years."
+},
+{
+  "id": 14,
+  "name": "Sports Nutrition Diet",
+  "category": "Athletic Performance",
+  "dailyCalories": "2500–3500 kcal/day (depending on sport, age, gender, and activity level)",
+  "duration": "Long-Term Performance Nutrition",
+  "goal": "To maximize athletic performance, improve endurance, build lean muscle mass, speed up recovery, and maintain overall physical fitness through balanced nutrition and proper hydration.",
+
+  "introduction": "A Sports Nutrition Diet is a scientifically designed eating plan that provides athletes and physically active individuals with the nutrients required to perform at their best. During intense physical activity, the body uses carbohydrates as its primary source of energy while proteins help repair and build muscle tissue after exercise. Healthy fats provide long-lasting energy and support hormone production, while vitamins and minerals contribute to metabolism, immunity, and recovery. Proper hydration is equally important because even mild dehydration can reduce athletic performance and increase fatigue. A balanced sports nutrition plan includes the correct proportions of carbohydrates, proteins, healthy fats, fiber, vitamins, minerals, and water. Meal timing also plays an important role, with pre-workout meals supplying energy and post-workout meals promoting muscle recovery. Depending on the sport and training intensity, athletes may require higher calorie and protein intake than the general population. Sports nutrition is not limited to professional athletes; it is equally beneficial for gym enthusiasts, runners, cyclists, swimmers, football players, and anyone involved in regular physical exercise. Combined with structured training, adequate sleep, and proper recovery, a sports nutrition diet improves endurance, strength, muscle growth, concentration, and overall athletic performance.",
+
+  "whoShouldFollow": "This diet is suitable for athletes, bodybuilders, runners, swimmers, football players, cyclists, gym-goers, dancers, martial artists, and anyone participating in regular moderate to high-intensity physical activity.",
+
+  "healthBenefits": [
+    "Improves athletic performance.",
+    "Provides sustained energy during exercise.",
+    "Supports muscle growth and repair.",
+    "Speeds up post-workout recovery.",
+    "Maintains healthy body composition.",
+    "Improves endurance and stamina.",
+    "Strengthens bones and muscles.",
+    "Supports immune function.",
+    "Enhances concentration during training.",
+    "Reduces fatigue and muscle soreness."
+  ],
+
+  "mealPlan": {
+    "preWorkoutBreakfast": "Oatmeal with banana, peanut butter, and milk or whole wheat toast with eggs and fruit.",
+    "midMorningSnack": "Greek yogurt or curd with almonds, walnuts, and seasonal fruit.",
+    "lunch": "Brown rice, grilled chicken or paneer, dal, mixed vegetables, cucumber salad, and curd.",
+    "preWorkoutSnack": "Banana with peanut butter, dates, or a homemade fruit smoothie.",
+    "postWorkoutMeal": "Protein-rich meal including grilled chicken, fish, tofu, paneer, or eggs with sweet potatoes or brown rice and vegetables.",
+    "dinner": "Whole wheat chapatis, grilled fish or paneer, vegetable curry, soup, and salad.",
+    "beforeBed": "A glass of milk with a handful of almonds or walnuts."
+  },
+
+  "foodsToEat": [
+    "Oats",
+    "Brown rice",
+    "Whole wheat",
+    "Sweet potatoes",
+    "Eggs",
+    "Chicken breast",
+    "Fish",
+    "Paneer",
+    "Tofu",
+    "Milk",
+    "Greek yogurt",
+    "Curd",
+    "Bananas",
+    "Apples",
+    "Berries",
+    "Spinach",
+    "Broccoli",
+    "Beans",
+    "Lentils",
+    "Almonds",
+    "Walnuts",
+    "Peanut butter",
+    "Chia seeds",
+    "Flax seeds"
+  ],
+
+  "foodsToAvoid": [
+    "Soft drinks",
+    "Alcohol",
+    "Deep-fried foods",
+    "Highly processed snacks",
+    "Sugary desserts",
+    "Fast food",
+    "Excess sweets",
+    "Instant noodles",
+    "Processed meat",
+    "Foods high in trans fats"
+  ],
+
+  "exercise": "Follow a structured training program that includes strength training, endurance exercises, flexibility training, mobility work, and adequate rest days. Warm up before exercise and cool down after every workout to reduce injury risk.",
+
+  "hydration": "Drink 3–4 litres of water daily. During prolonged exercise, consume electrolyte-rich drinks or coconut water when appropriate to replace minerals lost through sweat. Hydrate before, during, and after workouts.",
+
+  "lifestyleTips": [
+    "Never skip breakfast.",
+    "Eat a balanced pre-workout meal 2–3 hours before training.",
+    "Consume protein within 30–60 minutes after exercise.",
+    "Sleep 7–9 hours every night for muscle recovery.",
+    "Drink enough water throughout the day.",
+    "Avoid excessive junk food.",
+    "Plan meals according to training schedules.",
+    "Monitor body weight and performance regularly.",
+    "Take rest days to prevent overtraining.",
+    "Consult a sports nutritionist for personalized dietary planning."
+  ],
+
+  "precautions": "Avoid relying solely on protein supplements or energy drinks. Whole foods should remain the primary source of nutrition. Athletes with medical conditions should seek professional guidance before using supplements. Overtraining without adequate nutrition and recovery may increase the risk of injuries and fatigue.",
+
+  "conclusion": "A Sports Nutrition Diet provides the energy and nutrients required to achieve peak physical performance while supporting muscle growth, recovery, endurance, and long-term health. By consuming balanced meals rich in carbohydrates, proteins, healthy fats, vitamins, and minerals, along with maintaining proper hydration and adequate sleep, athletes and physically active individuals can maximize their performance safely and effectively. Consistency, disciplined eating habits, and proper recovery remain the foundation of successful sports nutrition."
+}
+]
